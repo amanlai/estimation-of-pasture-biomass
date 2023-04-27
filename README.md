@@ -1,7 +1,7 @@
 # Estimation of Pasture Biomass
 _by Enkhmanlai Amarsaikhan, Nyamjargal Erdenebaatar, Damdinsuren Amarsaikhan, Munkhdulam Otgonbayar and Batbileg Bayaraa_
 
-This paper was published in _Geocarto International_ Vol. 38, No. 1 in 2023. _Geocarto International_ is one of the top academic journals in the world focusing on remote sensing and geoscience and had an impact factor of 3.450 in 2022.
+**_This paper was published in _Geocarto International_ Vol. 38, No. 1 in 2023. _Geocarto International_ is one of the top academic journals in the world focusing on remote sensing and geoscience and had an impact factor of 3.450 in 2022._**
 
 Mongolian pasture plays an essential role in the national economy. Reliable pasture biomass estimation is indispensable to support the agricultural sector and also sustainable livelihood in the country. The aim of this study is to determine an appropriate method to estimate and map pasture biomass in a forest-steppe area of Mongolia. 
 
