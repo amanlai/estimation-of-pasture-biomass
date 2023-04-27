@@ -1,6 +1,8 @@
 # Estimation of Pasture Biomass
 _by Enkhmanlai Amarsaikhan, Nyamjargal Erdenebaatar, Damdinsuren Amarsaikhan, Munkhdulam Otgonbayar and Batbileg Bayaraa_
 
+This paper was published in _Geocarto International_ Vol. 38, No. 1 in 2023. _Geocarto International_ is one of the top academic journals in the world focusing on remote sensing and geoscience and had an impact factor of 3.450 in 2022.
+
 Mongolian pasture plays an essential role in the national economy. Reliable pasture biomass estimation is indispensable to support the agricultural sector and also sustainable livelihood in the country. The aim of this study is to determine an appropriate method to estimate and map pasture biomass in a forest-steppe area of Mongolia. 
 
 For this purpose, machine learning methods such as random forest (RF), support vector machine (SVM), and partial least squares regression (PLSR) were compared. As data sources, spectral indices derived from Sentinel-2B image of 2019 and field-measured biomass sample datasets were used. To determine the optimal spectral predictor variables, initially, 20 spectral indices were evaluated using the PLSR. Of these, five indices (i.e. ATSAVI2, EVI, GRVI, IPVI and MSR) with the highest correlation coefficients ($r\ge 0.94$) were considered for further analysis. These indices were also examined and validated by a variable importance analysis. Then, the RF, SVM, and PLSR models were applied to predict and map pasture biomass using the selected five indices. 
