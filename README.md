@@ -9,4 +9,4 @@ For this purpose, machine learning methods such as random forest (RF), support v
 
 The PLSR method demonstrated the highest accuracy with coefficient of determination ($R^2$)=0.899 and root mean square error (RMSE)=10.560 g/m2. The SVM technique showed the second highest accuracy with $R^2$=0.837 and RMSE=12.881 g/m2. The RF model gave the lowest accuracy with $R^2$=0.823 and RMSE=13.430g/m2. Our research showed that different machine learning models might be applied (because in all cases $R^2>0.82$) for a pasture biomass estimation and mapping in the selected test site, but the best result could be achieved by the use of the PLSR.
 
-This paper may be downloaded at https://www.tandfonline.com/doi/pdf/10.1080/10106049.2023.2195824.
+The full paper may be downloaded at [estimation-of-pasture-biomass.pdf](./estimation-of-pasture-biomass.pdf) on this repo or at [the Geocarto International website](https://www.tandfonline.com/doi/pdf/10.1080/10106049.2023.2195824) at Taylor & Francis Online.
